@@ -43,6 +43,11 @@ STACK={stack-name}Stack npm run deploy
 STACK={stack-name}Stack npm run destroy
 ```
 
+### リポジトリ
+
+- ブランチ切ってスタック作成
+- mainではリソース作成しない
+
 ## コマンド(補足)
 
 diff
