@@ -1,0 +1,9 @@
+import * as cdk from "aws-cdk-lib";
+import type { Construct } from "constructs";
+
+export class __STACK_NAME__Stack extends cdk.Stack {
+	constructor(scope: Construct, id: string, props?: cdk.StackProps) {
+		super(scope, id, props);
+        // 以下にリソースを記述
+	}
+}
