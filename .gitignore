@@ -9,3 +9,6 @@ cdk.out
 
 # js scripts
 !scripts/*.js
+
+# agents
+.kiro
