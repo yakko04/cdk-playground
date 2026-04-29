@@ -1,0 +1,9 @@
+{
+	"name": "lambda-playwright-runner",
+	"version": "1.0.0",
+	"type": "module",
+	"dependencies": {
+		"playwright": "1.50.0",
+		"aws-lambda-ric": "^3.0.0"
+	}
+}
